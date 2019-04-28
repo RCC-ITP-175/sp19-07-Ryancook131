@@ -49,7 +49,11 @@ var customersObj = {
     }
 };
 
+function customerId {
+  returnthis.first + " " + this.last;
+};
 
+  
 
 
 

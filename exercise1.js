@@ -39,7 +39,9 @@ var customersObj = {
     }
 };
 
-
+function customerObj(customerId, currency) {
+  return this. "$"+customerID.toFixed(2);
+};
 
 
 
